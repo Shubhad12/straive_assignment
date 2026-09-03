@@ -1,0 +1,21 @@
+branch_id,branch_name,city,state,region
+B001,Branch_001,Mumbai,Maharashtra,WEST
+B002,Branch_002,Pune,Maharashtra,WEST
+B003,Branch_003,Delhi,Delhi,NORTH
+B004,Branch_004,Bangalore,Karnataka,SOUTH
+B005,Branch_005,Chennai,Tamil Nadu,SOUTH
+B006,Branch_006,Mumbai,Maharashtra,WEST
+B007,Branch_007,Pune,Maharashtra,WEST
+B008,Branch_008,Delhi,Delhi,NORTH
+B009,Branch_009,Bangalore,Karnataka,SOUTH
+B010,Branch_010,Chennai,Tamil Nadu,SOUTH
+B011,Branch_011,Mumbai,Maharashtra,WEST
+B012,Branch_012,Pune,Maharashtra,WEST
+B013,Branch_013,Delhi,Delhi,NORTH
+B014,Branch_014,Bangalore,Karnataka,SOUTH
+B015,Branch_015,Chennai,Tamil Nadu,SOUTH
+B016,Branch_016,Mumbai,Maharashtra,WEST
+B017,Branch_017,Pune,Maharashtra,WEST
+B018,Branch_018,Delhi,Delhi,NORTH
+B019,Branch_019,Bangalore,Karnataka,SOUTH
+B020,Branch_020,Chennai,Tamil Nadu,SOUTH

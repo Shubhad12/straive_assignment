@@ -1,0 +1,10 @@
+TABLE_NAME,KEY,GRAIN,KEY_ROLE
+BRANCH,branch_id,One row per branch,PK
+CUSTOMER,customer_id,One row per customer,PK
+CUSTOMER_KYC,customer_id,One latest KYC profile per customer,PK/FK
+ACCOUNT,account_id,One row per bank account,PK
+MERCHANT,merchant_id,One row per merchant,PK
+PAYMENT_TRANSACTION,transaction_id,One row per payment attempt,PK
+PAYMENT_EVENT,event_id,One row per transaction lifecycle event,PK
+FRAUD_ALERT,alert_id,One row per fraud alert,PK
+EXPERIMENT_ASSIGNMENT,experiment_id + customer_id,One row per customer per experiment,COMPOSITE PK
